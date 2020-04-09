@@ -8,6 +8,7 @@ from time import sleep
 Translator = Translator()
 
 def Config():
+	print('Développé par ************************Loë159************************')
 	print('Bienvenue sur ce programme, il va vous permettre de traduire vos mots dans n\'importe quelle langue sur votre feuille de calcul Google Sheet')
 	print('Pour commencer, veuillez mettre les informations de connexion dans un fichier "creds.json" dans le même dossier que celui-ci, merci de contacter le créateur si vous avez besoin d\'aide.')
 	#input('Appuyez sur entrer pour continuer...')
